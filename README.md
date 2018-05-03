@@ -1,9 +1,12 @@
 # haskell-playing
 
-This repo is my private attempt to learn and to become fluent in haskell.
-I assume that you are using `stack` and have installed it.  You should also
-fill in some information in your `~/.stack/config.yaml` file.  For example, I
-did the following:
+This repo is my private attempt to learn and to hopefully become
+fluent in haskell.  I assume that you are using `stack` and have
+installed it.  You should also fill in some information in your
+`~/.stack/config.yaml` file.  For example, I did something like the
+following (although, really, I went in and edited package.yaml in the
+root directory):
+
 ```    
 templates:
   params:
